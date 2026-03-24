@@ -1,0 +1,106 @@
+﻿Year,Section ID,Section,Country,imports,section_imports,share,rank
+2024,S01,Animals and their products,Australia,1287.27789,27394.408003,0.04699053507047966,4.0
+2024,S01,Animals and their products,Brazil,4814.400799999999,27394.408003,0.17574392552935503,1.0
+2024,S01,Animals and their products,New Zealand,2451.976886,27394.408003,0.08950647466926391,3.0
+2024,S01,Animals and their products,Somalia,1285.113605,27394.408003,0.046911530442974546,5.0
+2024,S01,Animals and their products,Sudan,2758.909323,27394.408003,0.10071067506543188,2.0
+2024,S02,Plant Products,Brazil,1722.071792,34598.626848,0.049772836348837515,5.0
+2024,S02,Plant Products,Egypt,1734.1949929999998,34598.626848,0.05012323178658885,4.0
+2024,S02,Plant Products,India,6900.910230999999,34598.626848,0.19945618828508252,1.0
+2024,S02,Plant Products,Russian Federation,2060.339004,34598.626848,0.05954973337674814,3.0
+2024,S02,Plant Products,United States,3001.436726,34598.626848,0.08675016899329634,2.0
+2024,S03,"Animal and vegetable fats, oils, waxex and their products",Indonesia,1771.1121099999998,5060.274176,0.3500031912104835,1.0
+2024,S03,"Animal and vegetable fats, oils, waxex and their products",Malaysia,855.452377,5060.274176,0.16905257447457328,2.0
+2024,S03,"Animal and vegetable fats, oils, waxex and their products",Sultanate of Oman,359.43246999999997,5060.274176,0.07103023620829196,3.0
+2024,S03,"Animal and vegetable fats, oils, waxex and their products",Türkiye,335.00178400000004,5060.274176,0.06620229899574517,4.0
+2024,S03,"Animal and vegetable fats, oils, waxex and their products",Ukraine,279.06590600000004,5060.274176,0.05514837660843776,5.0
+2024,S04,"Prepared foodstuffs, beverages and tobacco",Brazil,5138.920539,37035.688273,0.13875590757540773,1.0
+2024,S04,"Prepared foodstuffs, beverages and tobacco",Ireland,1898.484624,37035.688273,0.05126095159905657,3.0
+2024,S04,"Prepared foodstuffs, beverages and tobacco",Netherlands,1570.454507,37035.688273,0.042403815893031556,4.0
+2024,S04,"Prepared foodstuffs, beverages and tobacco",Spain,1516.4037429999998,37035.688273,0.04094439211773738,5.0
+2024,S04,"Prepared foodstuffs, beverages and tobacco",United Arab Emirates,3188.1585130000003,37035.688273,0.08608341471877688,2.0
+2024,S05,Mineral Products,Egypt,16810.935959,51222.629342,0.3281935381871518,1.0
+2024,S05,Mineral Products,Netherlands,3293.59465,51222.629342,0.06429960141267908,5.0
+2024,S05,Mineral Products,Russian Federation,5959.156125,51222.629342,0.11633834892020643,3.0
+2024,S05,Mineral Products,Sultanate of Oman,5426.878546,51222.629342,0.10594689526314945,4.0
+2024,S05,Mineral Products,United Arab Emirates,7064.558301000001,51222.629342,0.13791869710224766,2.0
+2024,S06,Products of the chemical industries,China,6034.269044,77661.159763,0.07769996047464253,3.0
+2024,S06,Products of the chemical industries,France,5307.458283,77661.159763,0.06834121843141241,5.0
+2024,S06,Products of the chemical industries,Germany,8493.190359999999,77661.159763,0.1093621365676076,2.0
+2024,S06,Products of the chemical industries,India,5408.323898999999,77661.159763,0.06964000943978536,4.0
+2024,S06,Products of the chemical industries,United States,9992.116414,77661.159763,0.12866298217143712,1.0
+2024,S07,"Plastics, rubber and their articles",China,9674.420290999999,28362.013872,0.3411048430714906,1.0
+2024,S07,"Plastics, rubber and their articles",Germany,1470.9465240000002,28362.013872,0.051863260861464124,4.0
+2024,S07,"Plastics, rubber and their articles",South Korea,1455.21004,28362.013872,0.051308417186715916,5.0
+2024,S07,"Plastics, rubber and their articles",United Arab Emirates,2786.162186,28362.013872,0.09823569646972775,2.0
+2024,S07,"Plastics, rubber and their articles",United States,2081.807981,28362.013872,0.07340127504328019,3.0
+2024,S08,"Skins, leather and their articles, handbags and similar",Cambodia,64.758133,2519.834812,0.02569935643860769,5.0
+2024,S08,"Skins, leather and their articles, handbags and similar",China,1484.212659,2519.834812,0.5890118875776529,1.0
+2024,S08,"Skins, leather and their articles, handbags and similar",France,102.36692599999999,2519.834812,0.04062445899727493,3.0
+2024,S08,"Skins, leather and their articles, handbags and similar",Italy,400.9685420000001,2519.834812,0.15912493155920418,2.0
+2024,S08,"Skins, leather and their articles, handbags and similar",Vietnam,83.53374099999999,2519.834812,0.03315048296110292,4.0
+2024,S09,"Wood, cork, plaiting materials and their articles",China,1374.88589,6020.743811,0.22835814529893472,1.0
+2024,S09,"Wood, cork, plaiting materials and their articles",Finland,392.882811,6020.743811,0.06525486274340331,4.0
+2024,S09,"Wood, cork, plaiting materials and their articles",Germany,332.27813000000003,6020.743811,0.055188883704522074,5.0
+2024,S09,"Wood, cork, plaiting materials and their articles",Indonesia,549.604789,6020.743811,0.0912851976853529,2.0
+2024,S09,"Wood, cork, plaiting materials and their articles",Thailand,472.722617,6020.743811,0.0785156505308078,3.0
+2024,S10,"Paper, paperboard and their articles",China,2124.440442,8222.138839000001,0.25838051188374,1.0
+2024,S10,"Paper, paperboard and their articles",Indonesia,525.6933740000001,8222.138839000001,0.06393632901289421,4.0
+2024,S10,"Paper, paperboard and their articles",Sweden,512.4816,8222.138839000001,0.062329475339087,5.0
+2024,S10,"Paper, paperboard and their articles",United Arab Emirates,776.1541990000001,8222.138839000001,0.0943980896209724,2.0
+2024,S10,"Paper, paperboard and their articles",United States,625.374814,8222.138839000001,0.07605987033856264,3.0
+2024,S11,Textiles and their articles,Bangladesh,1270.180591,22938.986423000002,0.05537213229815773,4.0
+2024,S11,Textiles and their articles,China,10606.575355,22938.986423000002,0.4623820407498569,1.0
+2024,S11,Textiles and their articles,India,2610.176805,22938.986423000002,0.11378780024835275,2.0
+2024,S11,Textiles and their articles,Italy,612.989541,22938.986423000002,0.026722607952083706,5.0
+2024,S11,Textiles and their articles,Türkiye,1825.847745,22938.986423000002,0.07959583354429713,3.0
+2024,S12,"Footwear, headgear, umbrellas, sticks",China,2549.408624,4738.096842,0.5380659596066568,1.0
+2024,S12,"Footwear, headgear, umbrellas, sticks",India,204.327542,4738.096842,0.04312439125109803,4.0
+2024,S12,"Footwear, headgear, umbrellas, sticks",Indonesia,189.32360500000001,4738.096842,0.03995773225270013,5.0
+2024,S12,"Footwear, headgear, umbrellas, sticks",Italy,474.009584,4738.096842,0.10004218989325589,3.0
+2024,S12,"Footwear, headgear, umbrellas, sticks",Vietnam,636.160119,4738.096842,0.13426490428833662,2.0
+2024,S13,"Articles of stone, plaster, cement, ceramic, glass",China,3129.6126999999997,9292.418722,0.33679204452879147,1.0
+2024,S13,"Articles of stone, plaster, cement, ceramic, glass",Italy,689.3773229999999,9292.418722,0.07418707051673042,3.0
+2024,S13,"Articles of stone, plaster, cement, ceramic, glass",Türkiye,554.8227489999999,9292.418722,0.05970703275417897,5.0
+2024,S13,"Articles of stone, plaster, cement, ceramic, glass",United Arab Emirates,874.981608,9292.418722,0.09416080292727902,2.0
+2024,S13,"Articles of stone, plaster, cement, ceramic, glass",United States,681.7347110000001,9292.418722,0.07336461382072447,4.0
+2024,S14,"Precious stones or metals and their articles, jewelry",China,1465.816847,38422.060713,0.03815039640765663,3.0
+2024,S14,"Precious stones or metals and their articles, jewelry",India,1462.8250469999998,38422.060713,0.03807252968357985,4.0
+2024,S14,"Precious stones or metals and their articles, jewelry",South Africa,1036.1393400000002,38422.060713,0.026967302658220654,5.0
+2024,S14,"Precious stones or metals and their articles, jewelry",Switzerland,19103.928189,38422.060713,0.49721248247718886,1.0
+2024,S14,"Precious stones or metals and their articles, jewelry",United Arab Emirates,12138.360647000001,38422.060713,0.31592164557933305,2.0
+2024,S15,Base metals and their articles,Bahrain,4529.172041000002,75053.82294700001,0.060345654134078164,4.0
+2024,S15,Base metals and their articles,China,18897.959055,75053.82294700001,0.251792091501388,1.0
+2024,S15,Base metals and their articles,Egypt,3298.764968,75053.82294700001,0.04395199123073924,5.0
+2024,S15,Base metals and their articles,India,6739.677598,75053.82294700001,0.08979792545356803,2.0
+2024,S15,Base metals and their articles,United Arab Emirates,4715.773996,75053.82294700001,0.06283189597590638,3.0
+2024,S16,"Machinery and mechanical appliances, electrical equipment, parts thereof",China,85299.231052,209002.712835,0.408124994623111,1.0
+2024,S16,"Machinery and mechanical appliances, electrical equipment, parts thereof",Germany,11291.861869,209002.712835,0.05402734594126781,3.0
+2024,S16,"Machinery and mechanical appliances, electrical equipment, parts thereof",India,8566.341179,209002.712835,0.04098674635751169,5.0
+2024,S16,"Machinery and mechanical appliances, electrical equipment, parts thereof",Italy,10890.031379,209002.712835,0.05210473697342523,4.0
+2024,S16,"Machinery and mechanical appliances, electrical equipment, parts thereof",United States,22922.429175999998,209002.712835,0.10967527102912017,2.0
+2024,S17,"Vehicles, aircraft, vessels and associated transport equipment",China,24692.711942,112530.373512,0.21943152920723952,1.0
+2024,S17,"Vehicles, aircraft, vessels and associated transport equipment",India,6380.531055999999,112530.373512,0.05670052321757905,5.0
+2024,S17,"Vehicles, aircraft, vessels and associated transport equipment",Japan,18381.863576,112530.373512,0.16335024049342373,2.0
+2024,S17,"Vehicles, aircraft, vessels and associated transport equipment",South Korea,7660.015638,112530.373512,0.06807064971825719,4.0
+2024,S17,"Vehicles, aircraft, vessels and associated transport equipment",United States,11859.099075999999,112530.373512,0.10538576124725445,3.0
+2024,S18,"Optical, photographic, measuring, checking, medical instruments and apparatus; clocks and musical Instruments",China,3351.54076,24148.438193,0.13878913133899995,2.0
+2024,S18,"Optical, photographic, measuring, checking, medical instruments and apparatus; clocks and musical Instruments",France,999.796506,24148.438193,0.041402118762687304,5.0
+2024,S18,"Optical, photographic, measuring, checking, medical instruments and apparatus; clocks and musical Instruments",Germany,2332.4317140000003,24148.438193,0.0965872697587586,3.0
+2024,S18,"Optical, photographic, measuring, checking, medical instruments and apparatus; clocks and musical Instruments",Switzerland,2137.046924,24148.438193,0.08849627901068459,4.0
+2024,S18,"Optical, photographic, measuring, checking, medical instruments and apparatus; clocks and musical Instruments",United States,5635.1897180000005,24148.438193,0.23335628055786622,1.0
+2024,S19,Arms and Ammunition; Parts and Accessories Thereof,Belgium,332.836123,7909.979599,0.04207800018119869,4.0
+2024,S19,Arms and Ammunition; Parts and Accessories Thereof,China,443.445167,7909.979599,0.05606148049434432,3.0
+2024,S19,Arms and Ammunition; Parts and Accessories Thereof,South Korea,1055.607134,7909.979599,0.13345257352287643,2.0
+2024,S19,Arms and Ammunition; Parts and Accessories Thereof,United Kingdom,274.29457,7909.979599,0.03467702622579166,5.0
+2024,S19,Arms and Ammunition; Parts and Accessories Thereof,United States,4754.724811,7909.979599,0.6011045605732162,1.0
+2024,S20,Miscellaneous Manufactured Articles,China,9398.932951,19395.626886000002,0.4845903154480799,1.0
+2024,S20,Miscellaneous Manufactured Articles,Italy,1329.583615,19395.626886000002,0.06855069046310173,2.0
+2024,S20,Miscellaneous Manufactured Articles,Malaysia,751.004866,19395.626886000002,0.03872031929744351,4.0
+2024,S20,Miscellaneous Manufactured Articles,United Arab Emirates,1024.514524,19395.626886000002,0.05282193403810562,3.0
+2024,S20,Miscellaneous Manufactured Articles,United States,737.1445470000001,19395.626886000002,0.03800570877820299,5.0
+2024,S21,Works of arts and antiqes,China,8170.399848,18531.358857,0.44089588416306175,1.0
+2024,S21,Works of arts and antiqes,Hong Kong,4487.897005,18531.358857,0.24217851694695072,2.0
+2024,S21,Works of arts and antiqes,United Arab Emirates,994.136728,18531.358857,0.05364618621178321,5.0
+2024,S21,Works of arts and antiqes,United Kingdom,1520.712076,18531.358857,0.08206155240610265,4.0
+2024,S21,Works of arts and antiqes,United States,1846.461257,18531.358857,0.09963981979133285,3.0
